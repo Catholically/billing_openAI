@@ -1,0 +1,10 @@
+# OpenAI Invoice Downloader - Dependencies
+
+# Browser automation
+playwright>=1.40.0
+
+# AWS SDK (optional, for S3 upload and Secrets Manager)
+boto3>=1.34.0
+
+# For local development (optional)
+python-dotenv>=1.0.0
